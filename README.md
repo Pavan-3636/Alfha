@@ -1,2 +1,3 @@
 # Alfha
-My first GIT
+My first GIT learning
+Author - Pavan Perumalla
